@@ -10,3 +10,5 @@ Desarrollamos en clases este clon de instagram, utilizando las siguientes tecnol
 entre otros.
 
 Bootcamp Full Stack Java - Talento Digital - Awakelab - Adalid
+
+Este cambio lo hice probando github
